@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/bspann/Space%20Game/_apis/build/status/CrewChief22.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/bspann/Space%20Game/_build/latest?definitionId=169&branchName=main)
 
 # Contributing
 
